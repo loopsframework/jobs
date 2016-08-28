@@ -5,7 +5,7 @@
         "psr-4": { "": "src/" }
     },
     "require": {
-        "loopsframework/extra": "0.1.0",
+        "loopsframework/extra": "dev-master",
         "chrisboulton/php-resque": "^1.2",
         "chrisboulton/php-resque-scheduler": "^1.1",
         "mtdowling/cron-expression": "^1.0"
